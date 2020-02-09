@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AHIS">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="gov.nv.dwss.nvkids.testcases.ahis.ViewParticipantAddressTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.ahis.AddParticipantAddressTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.ahis.EditParticipantAddressTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.ahis.ViewParticipantFederalTaxAddressTestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- AHIS -->

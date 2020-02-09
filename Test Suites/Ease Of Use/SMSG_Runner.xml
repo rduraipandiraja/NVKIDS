@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SMSG">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.ViewSystemMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.EditSystemMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.ViewBroadcastMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.AddBroadcastMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.EditBroadcastMessagesTestcase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- SMSG -->

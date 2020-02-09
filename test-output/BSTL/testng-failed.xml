@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BSTL]" parallel="methods">
+  <test thread-count="5" name="Test(failed)" parallel="methods">
+    <classes>
+      <class name="gov.nv.dwss.nvkids.testcases.bstl.ViewBatchErrorsTestcase">
+        <methods>
+          <include name="beforeclass"/>
+          <include name="verifyFilterSectionFields"/>
+          <include name="configureAndLaunch"/>
+          <include name="closeBrowser"/>
+          <include name="startReport"/>
+          <include name="verifySuccessfulInquiry" invocation-numbers="0"/>
+          <include name="stopReport"/>
+        </methods>
+      </class> <!-- gov.nv.dwss.nvkids.testcases.bstl.ViewBatchErrorsTestcase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [BSTL] -->

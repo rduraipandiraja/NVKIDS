@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PLIC">
+  <test  name="PLICRunner">
+    <classes>
+ <class name="gov.nv.dwss.nvkids.testcases.plic.ViewParticipantLicenseInformationTestcase"/>
+       <class name="gov.nv.dwss.nvkids.testcases.plic.AddParticipantLicenseInformationTestcase"/>
+       <class name="gov.nv.dwss.nvkids.testcases.plic.EditParticipantLicenseInformationTestcase"/>
+    </classes>
+  </test> <!-- PLICRunner -->
+</suite> <!-- Suite -->

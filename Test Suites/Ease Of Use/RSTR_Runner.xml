@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RSTR">
+  <test name="Test">
+    <classes>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.ViewHighProfileRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.AddHighProfileRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.EditHighProfileRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.ViewFamilialRestrictedCaseTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.AddFamilialRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.EditFamilialRestrictedCasesTestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+     <!-- <class name="gov.nv.dwss.nvkids.testcases.fips.ViewFIPSInformationTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.fips.AddFIPSInformationTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.fips.EditFIPSInformationTestcase"/> -->
+      <class name="gov.nv.dwss.nvkids.testcases.fips.ViewCSENetInformationTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.fips.EditCSENetInformationTestcase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="INEX">
+  <test thread-count="5" name="Test">
+    <classes>
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.ViewOtherIncomeInformationTestCases"/>	
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.AddOtherIncomeInformationTestCases"/>
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.EditOtherIncomeInformationTestCases"/>
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.ViewExpenseInformationTestCases"/>
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.AddExpenseInformationTestCases"/>
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.EditExpenseInformationTestCases"/>
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.NVQuarterlyWagesTestCases"/>
+    	<class name="gov.nv.dwss.nvkids.testcases.inex.FCRQuarterlyWagesTestCases"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- INEX -->
+

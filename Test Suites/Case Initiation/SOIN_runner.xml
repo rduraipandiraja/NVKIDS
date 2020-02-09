@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SOIN_Runner">
+  <test thread-count="1" name="SOIN_Runner">
+    <classes>
+      <class name="gov.nv.dwss.nvkids.testcases.soin.ViewSourceofIncomeInformationTestCase"/>
+       <class name="gov.nv.dwss.nvkids.testcases.soin.EditSourceofIncomeInformationTestCase"/>
+        <class name="gov.nv.dwss.nvkids.testcases.soin.AddSourceofIncomeInformationTestCase"/> 
+      
+    </classes>
+  </test> <!-- SOIN_Runner -->
+</suite> <!-- SOIN_Runner -->

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EaseOfUse">
+  <test thread-count="5" name="Test">
+    <classes>
+      <!-- <class name="gov.nv.dwss.nvkids.testcases.fips.ViewFIPSInformationTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.fips.AddFIPSInformationTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.fips.EditFIPSInformationTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.fips.ViewCSENetInformationTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.fips.EditCSENetInformationTestcase"/> -->
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.ViewHighProfileRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.AddHighProfileRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.EditHighProfileRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.ViewFamilialRestrictedCaseTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.AddFamilialRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.rstr.EditFamilialRestrictedCasesTestCase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.ViewSystemMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.EditSystemMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.ViewBroadcastMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.AddBroadcastMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.smsg.EditBroadcastMessagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.proc.MaintainProcessDetailsTestCases"/>
+      <class name="gov.nv.dwss.nvkids.testcases.proc.ViewDocumentsAssociatedTestCases"/>
+      <class name="gov.nv.dwss.nvkids.testcases.proc.AddDocumentsAssociatedTestCases"/>
+      <class name="gov.nv.dwss.nvkids.testcases.proc.EditDocumentsAssociatedTestCases"/>
+      <class name="gov.nv.dwss.nvkids.testcases.bstl.ViewBatchStatusLogsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.bstl.ViewBatchErrorsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.bstl.ViewPrintQueueErrorsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.dref.ViewDocumentAttributesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.dref.AddDocumentAttributesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.dref.EditDocumentAttributesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.dref.DeleteDocumentAttributesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.ptre.ViewProcessDetails"/>
+      <class name="gov.nv.dwss.nvkids.testcases.ptre.ViewTaskDetails"/>
+      <class name="gov.nv.dwss.nvkids.testcases.ptre.EditProcessDetails"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.ViewReferenceCodesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.AddReferenceCodesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.EditReferenceCodesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.ViewReferencePercentagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.AddReferencePercentagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.EditReferencePercentagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.AddRevisionReferencePercentagesTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.ViewReferenceAmountsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.AddReferenceAmountsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.EditReferenceAmountsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.AddRevisionReferenceAmountsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.ViewPerformanceMeasureGoalsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.AddRevisionPerformanceMeasureGoalsTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.refm.EditPerformanceMeasureGoalsTestcase"/>
+  	  <class name="gov.nv.dwss.nvkids.testcases.parm.ViewManageBatchParametersTestcase"/>
+      <class name="gov.nv.dwss.nvkids.testcases.parm.EditManageBatchParametersTestcase"/>
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- EaseOfUse -->

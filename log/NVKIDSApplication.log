@@ -1,0 +1,91 @@
+2020-01-29 06:25:30,748  INFO [main] SeleniumBase:152 - Firefox Browser launched
+2020-01-29 06:25:31,405  INFO [main] SeleniumBase:161 - URL Passed
+2020-01-29 06:25:31,733  INFO [main] SeleniumBase:164 - Window Maximized
+2020-01-29 06:25:31,842  INFO [main] SeleniumBase:175 - Screenshot taken
+2020-01-29 06:25:32,296  INFO [main] SeleniumBase:243 - The Element 'By logging in, I accept the terms above' is clicked
+2020-01-29 06:25:32,452  INFO [main] SeleniumBase:269 - Screenshot taken
+2020-01-29 06:25:32,545  INFO [main] SeleniumBase:344 - The field is cleared Successfully
+2020-01-29 06:25:32,639  INFO [main] SeleniumBase:352 - The data RARUNKUMAR is entered into the field Successfully
+2020-01-29 06:25:32,811  INFO [main] SeleniumBase:368 - Screenshot taken
+2020-01-29 06:25:32,889  INFO [main] SeleniumBase:344 - The field is cleared Successfully
+2020-01-29 06:25:32,967  INFO [main] SeleniumBase:352 - The data password is entered into the field Successfully
+2020-01-29 06:25:33,155  INFO [main] SeleniumBase:368 - Screenshot taken
+2020-01-29 06:25:33,858  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:25:40,656  INFO [main] SeleniumBase:243 - The Element '' is clicked
+2020-01-29 06:25:40,861  INFO [main] SeleniumBase:269 - Screenshot taken
+2020-01-29 06:25:40,901  INFO [main] SeleniumBase:344 - The field is cleared Successfully
+2020-01-29 06:25:41,015  INFO [main] SeleniumBase:352 - The data BSTL is entered into the field Successfully
+2020-01-29 06:25:41,218  INFO [main] SeleniumBase:368 - Screenshot taken
+2020-01-29 06:25:44,219  INFO [main] SeleniumBase:1064 - Execution halted for 3000
+2020-01-29 06:25:44,462  INFO [main] SeleniumBase:2747 - Tapped Enter key successfully in the element
+2020-01-29 06:25:48,375  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:25:51,813  INFO [main] SeleniumBase:243 - The Element 'Filter' is clicked
+2020-01-29 06:25:51,998  INFO [main] SeleniumBase:269 - Screenshot taken
+2020-01-29 06:25:52,475  INFO [main] SeleniumBase:1007 - Screenshot taken
+2020-01-29 06:25:52,515  INFO [main] SeleniumBase:344 - The field is cleared Successfully
+2020-01-29 06:25:52,655  INFO [main] SeleniumBase:352 - The data 01/20/2020 is entered into the field Successfully
+2020-01-29 06:25:52,847  INFO [main] SeleniumBase:368 - Screenshot taken
+2020-01-29 06:25:53,391  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:25:56,491  INFO [main] SeleniumBase:1007 - Screenshot taken
+2020-01-29 06:25:57,157  INFO [main] SeleniumBase:3008 - 01/20/2020 Record  is available
+2020-01-29 06:25:57,860  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:25:58,416  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:25:59,188  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:25:59,188  INFO [main] SeleniumBase:3543 - Job ID is selected
+2020-01-29 06:25:59,844  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:25:59,844  INFO [main] SeleniumBase:3543 - Message Type Code is selected
+2020-01-29 06:26:03,641  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:26:06,235  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:26:07,249  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:26:07,264  INFO [main] SeleniumBase:3260 - 'Show Filters' option is successfully selected
+2020-01-29 06:26:07,986  INFO [main] SeleniumBase:222 - Screenshot taken
+2020-01-29 06:26:08,095  INFO [main] SeleniumBase:344 - The field is cleared Successfully
+2020-01-29 06:26:08,501  INFO [main] SeleniumBase:352 - The data BATCH_IVA_IVE_MEDI_REFERRAL is entered into the field Successfully
+2020-01-29 06:26:08,705  INFO [main] SeleniumBase:368 - Screenshot taken
+2020-01-29 06:26:11,705  INFO [main] SeleniumBase:1064 - Execution halted for 3000
+2020-01-29 06:26:11,882  INFO [main] SeleniumBase:2747 - Tapped Enter key successfully in the element
+2020-01-29 06:26:14,845  INFO [main] SeleniumBase:3008 - BATCH_IVA_IVE_MEDI_REFERRAL Record  is available
+2020-01-29 06:26:15,984 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:15,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2020-01-29 06:26:15,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2020-01-29 06:26:15,984 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2020-01-29 06:26:16,142 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,142 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2020-01-29 06:26:16,142 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2020-01-29 06:26:16,142 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2020-01-29 06:26:16,158 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2020-01-29 06:26:16,173 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,173 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2020-01-29 06:26:16,173 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2020-01-29 06:26:16,173 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2020-01-29 06:26:16,189 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2020-01-29 06:26:16,205 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2020-01-29 06:26:16,220 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2020-01-29 06:26:16,220 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2020-01-29 06:26:16,220 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/arajkumar.PROTECH/.gradle/caches/modules-2/files-2.1/com.aventstack/extentreports/3.1.5/8db4c7ab2a94cb4656cc6fede1bd9b93886a1c55/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
